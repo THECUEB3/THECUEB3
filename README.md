@@ -3,19 +3,6 @@
 
 # Hi, I'm Luis :jack_o_lantern:
 
-Programming in lua, js, html [In progress]
-
-I am learning at Fivem :man_technologist:
-
----
-⭐️ From [FatChicken277](https://github.com/FatChicken277)
-
-- 👋 Hi, I’m @THECUEB3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=THECUEB3)](https://github.com/THECUEB3/github-readme-stats)
 
 
