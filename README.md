@@ -12,16 +12,6 @@
 I am a beginner in programming I am 16 years old and I would be interested in learning about all this 
 </p>
 
-<br/>
-<h3 align="center">
-My Tech Stacks
-</h3>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.svg" alt="stacks"/>
-</h3>
-⭐️ From [akasrai](https://github.com/[akasrai])`
-
 <!---
 THECUEB3/THECUEB3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
