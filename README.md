@@ -4,7 +4,6 @@
 # Hi, I'm Luis :jack_o_lantern:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=THECUEB3)](https://github.com/THECUEB3/github-readme-stats)
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/25010790)
 
 <h3 align="center"> Hello !👋</h3>
 
